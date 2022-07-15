@@ -1,0 +1,6 @@
+puerto sequelize = new Sequelize
+//tiene que ser el mismo puerto en donde esta postgress
+
+CREATE DATABASE repasopi;
+\l
+\c repasopi
